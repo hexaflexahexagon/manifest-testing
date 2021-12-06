@@ -9,6 +9,7 @@ Anybody else is free to follow along though if they also want to learn about man
 ## The manifest bar
 
 There is not much different about manifests and regular maps, you simply have extra courses in the same file that are otherwise completely hidden in the sidebar. Each row has 4 icons on the left and the name of the submap on the right, like so: 
+
 ![Manifest Window](/images/ManifestWindow.PNG)
 
 The top left 'eye' icon can be clicked to toggle visibility of the manifest on or off. Most likely you will want this exclusively on for the map you are working on and off for all others, though it may be useful to occasionally check other submaps to make sure you are not building new geometry that overlaps with any of them.
@@ -39,6 +40,7 @@ Some basic Git terms that you'll have to familiarize yourself with:
 In simple terms, whenever somebody else has made changes you will need to 'pull' those changes down from GitHub on to your computer. In the GitHub Desktop client, this is done through a button towards the top of your screen that contains an arrow pointing downwards. 
 
 In order to 'push' your changes, you will need to first gather all of the edits you have made into one or more commits, give them nice titles and descriptions, and then 'push' those commits to origin for others to see. If you commit something but do not push it then others will not be able to see your changes. The button to push looks like so:
+
 ![Git Push](/images/GitPush.PNG)
 
 ## How to compile the map
