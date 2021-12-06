@@ -1,7 +1,10 @@
-#map files
+# map files
 *.bsp
 *.bsp.unpacked
 *.vmx
 *.prt
 *.log
 *.lin
+
+# manifest prefs
+*.vmm_prefs
