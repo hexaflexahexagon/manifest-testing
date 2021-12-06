@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "9109"
-	"mapversion" "1"
+	"mapversion" "2"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "5"
-	"mapversion" "2"
+	"mapversion" "3"
 	"classname" "worldspawn"
 	"skyname" "sky_day01_01"
 	"maxpropscreenwidth" "-1"
@@ -508,9 +508,9 @@ entity
 	"_light" "198 221 255 200"
 	"_lightHDR" "-1 -1 -1 1"
 	"_lightscaleHDR" "1"
-	"angles" "15 -30 10"
-	"pitch" "10"
-	"SunSpreadAngle" "30"
+	"angles" "0 145 0"
+	"pitch" "-45"
+	"SunSpreadAngle" ".5"
 	"origin" "-1312 1118.63 0"
 	editor
 	{
