@@ -1,0 +1,7 @@
+#map files
+*.bsp
+*.bsp.unpacked
+*.vmx
+*.prt
+*.log
+*.lin
